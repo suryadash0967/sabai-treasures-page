@@ -424,6 +424,7 @@ figure figcaption{
 }
 
 .hide {
+    display: none;
     opacity: 0;
     visibility: hidden;
 }
